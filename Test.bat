@@ -1,0 +1,2 @@
+java -jar 1721221029_VeriYapilari_Odev1.jar
+PAUSE
